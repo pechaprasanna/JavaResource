@@ -1,11 +1,10 @@
 import com.prasvenk.java.oops.encapsulation.Employee;
+import com.prasvenk.java.pattern.singleton.SingletonPattern;
 
 public class Main {
     public static void main(String[] args) {
 
-        Employee employee = new Employee();
-        employee.setAge(-34);
-
-        System.out.println(employee.getAge());
+        SingletonPattern.getInstance();
+        SingletonPattern.getInstance();
     }
 }
