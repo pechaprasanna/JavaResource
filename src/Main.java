@@ -1,4 +1,4 @@
-import com.prasvenk.oops.encapsulation.Employee;
+import com.prasvenk.java.oops.encapsulation.Employee;
 
 public class Main {
     public static void main(String[] args) {

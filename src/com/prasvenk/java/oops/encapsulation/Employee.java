@@ -1,4 +1,4 @@
-package com.prasvenk.oops.encapsulation;
+package com.prasvenk.java.oops.encapsulation;
 
 public class Employee {
     private String name;

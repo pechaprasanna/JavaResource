@@ -1,4 +1,4 @@
-package com.prasvenk.core.java;
+package com.prasvenk.java.core;
 
 import java.util.concurrent.CompletableFuture;
 
