@@ -1,5 +1,11 @@
+import com.prasvenk.oops.encapsulation.Employee;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        Employee employee = new Employee();
+        employee.setAge(-34);
+
+        System.out.println(employee.getAge());
     }
 }
